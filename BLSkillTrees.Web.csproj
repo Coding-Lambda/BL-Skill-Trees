@@ -83,6 +83,9 @@
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </None>
+    <Content Include="Scripts\Vendor\Preact-8.4.2.js" />
+    <Content Include="Scripts\Vendor\Preact-Router-2.6.1.min.js" />
+    <Content Include="Scripts\Vendor\Promise-Polyfill.js" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
@@ -97,15 +100,12 @@
     </Content>
     <Content Include="Scripts\App.js" />
     <Content Include="Index.html" />
-    <Content Include="Scripts\Vendor\Preact.js" />
-    <Content Include="Scripts\Vendor\PreactRouter.js" />
-    <Content Include="Scripts\Vendor\PromisePolyfill.js" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\App.ts" />
-    <TypeScriptCompile Include="Scripts\Typings\Preact.d.ts" />
-    <TypeScriptCompile Include="Scripts\Typings\PreactRouter.d.ts" />
-    <TypeScriptCompile Include="Scripts\Typings\PromisePolyfill.d.ts" />
+    <TypeScriptCompile Include="Scripts\Typings\Preact-8.4.2.d.ts" />
+    <TypeScriptCompile Include="Scripts\Typings\Preact-Router-2.6.1.d.ts" />
+    <TypeScriptCompile Include="Scripts\Typings\Promise-Polyfill.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />

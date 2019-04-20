@@ -1,6 +1,7 @@
+"use strict";
 var BLST;
 (function (BLST) {
-    var App = (function () {
+    var App = /** @class */ (function () {
         function App() {
         }
         return App;
