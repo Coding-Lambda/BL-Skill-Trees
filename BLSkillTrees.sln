@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLSkillTrees.Web", "BLSkillTrees.Web\BLSkillTrees.Web.csproj", "{2574F603-4B6C-4A30-BFDD-E3BC09EEDFDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLSkillTrees.Web", "BLSkillTrees.Web.csproj", "{2574F603-4B6C-4A30-BFDD-E3BC09EEDFDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {551B20E6-E3DD-4AF9-BDE2-31BF5107C929}
+		SolutionGuid = {FEB34A4B-9BEC-46E5-A7DE-5FCD4747F599}
 	EndGlobalSection
 EndGlobal
