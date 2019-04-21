@@ -104,6 +104,10 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\App.ts" />
+    <TypeScriptCompile Include="Scripts\Data\BL2\GameInfo.ts" />
+    <TypeScriptCompile Include="Scripts\Data\BL2\Maya.tsx" />
+    <TypeScriptCompile Include="Scripts\Data\DataTypes.ts" />
+    <TypeScriptCompile Include="Scripts\Data\GameIndex.ts" />
     <TypeScriptCompile Include="Scripts\Utils.ts" />
     <TypeScriptCompile Include="Scripts\Typings\Preact-8.4.2.d.ts" />
     <TypeScriptCompile Include="Scripts\Typings\Preact-Router-2.6.1.d.ts" />
