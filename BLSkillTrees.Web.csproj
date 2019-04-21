@@ -103,7 +103,7 @@
     <Content Include="Index.html" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Scripts\App.ts" />
+    <TypeScriptCompile Include="Scripts\App.tsx" />
     <TypeScriptCompile Include="Scripts\Components\ClassList.tsx" />
     <TypeScriptCompile Include="Scripts\Components\GameList.tsx" />
     <TypeScriptCompile Include="Scripts\Components\PrintAsJson.tsx" />
