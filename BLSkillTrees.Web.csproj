@@ -116,6 +116,9 @@
     <TypeScriptCompile Include="Scripts\Typings\Preact-8.4.2.d.ts" />
     <TypeScriptCompile Include="Scripts\Typings\Preact-Router-2.6.1.d.ts" />
     <TypeScriptCompile Include="Scripts\Typings\Promise-Polyfill.d.ts" />
+    <TypeScriptCompile Include="Scripts\Views\ClassInfo.tsx" />
+    <TypeScriptCompile Include="Scripts\Views\GameInfo.tsx" />
+    <TypeScriptCompile Include="Scripts\Views\Home.tsx" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
