@@ -104,6 +104,10 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\App.ts" />
+    <TypeScriptCompile Include="Scripts\Components\ClassList.tsx" />
+    <TypeScriptCompile Include="Scripts\Components\GameList.tsx" />
+    <TypeScriptCompile Include="Scripts\Components\PrintAsJson.tsx" />
+    <TypeScriptCompile Include="Scripts\Components\SkillVariable.tsx" />
     <TypeScriptCompile Include="Scripts\Data\BL2\GameInfo.ts" />
     <TypeScriptCompile Include="Scripts\Data\BL2\Maya.tsx" />
     <TypeScriptCompile Include="Scripts\Data\DataTypes.ts" />
